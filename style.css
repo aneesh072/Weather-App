@@ -1,0 +1,50 @@
+h1{
+    color: white;
+}
+
+body{
+    background-color: blueviolet;
+    align-items: center;
+    display: inline-block;
+    display:flex; 
+    flex-direction:column; 
+    justify-content:center;
+    min-height:100vh;
+}
+
+.main{
+    border: 3px solid green;
+    width: 800px;
+    height: 800px;
+}
+
+.nav{
+    border: 3px solid pink;
+    width: 800px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+.city{
+    border: 3px solid pink;
+    width: 250px;
+    height: 250px;
+}
+
+.icon{
+    border: 3px solid yellow;
+    width: 100px;
+    height: 100px;
+}
+
+.icon1{
+    border: 3px solid pink;
+    width: 250px;
+    height: 250px;
+}
+
+.icon2{
+    border: 3px solid pink;
+    width: 250px;
+    height: 250px;
+}
